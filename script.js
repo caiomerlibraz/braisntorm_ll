@@ -65,11 +65,17 @@ const perguntas = [
         alternativas: [
             {
                 texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao:"afirmacao"
+                afirmacao:[
+             "No início ficou com medo do que essa tecnologia pode fazer. ",
+             "Achou assustador pensar na velocidade na qual a tecnologia está avançando.",
+        ],
             },
             {
                 texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao:"afirmacao"
+                afirmacao:[
+             "Quis saber como usar IA no seu dia a dia.",
+             "Foi atrás de vídeos, artigos e mais informaçõe sobre como utilizar essa tecnologia.",
+          ],
             }
             
             
